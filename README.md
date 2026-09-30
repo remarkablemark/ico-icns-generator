@@ -1,18 +1,20 @@
-# vite-react-tailwind-template
+# ICO and ICNS Generator
 
-[![build](https://github.com/remarkablemark/vite-react-tailwind-template/actions/workflows/build.yml/badge.svg)](https://github.com/remarkablemark/vite-react-tailwind-template/actions/workflows/build.yml)
-[![test](https://github.com/remarkablemark/vite-react-tailwind-template/actions/workflows/test.yml/badge.svg)](https://github.com/remarkablemark/vite-react-tailwind-template/actions/workflows/test.yml)
+[![build](https://github.com/remarkablemark/ico-icns-generator/actions/workflows/build.yml/badge.svg)](https://github.com/remarkablemark/ico-icns-generator/actions/workflows/build.yml)
+[![test](https://github.com/remarkablemark/ico-icns-generator/actions/workflows/test.yml/badge.svg)](https://github.com/remarkablemark/ico-icns-generator/actions/workflows/test.yml)
 [![codecov](https://codecov.io/gh/remarkablemark/ico-icns-generator/graph/badge.svg?token=XPrKaxMj9w)](https://codecov.io/gh/remarkablemark/ico-icns-generator)
 
-⚡ Vite React Tailwind Template
+🔰 Create Windows `.ico` and macOS `.icns` files in your browser:
+
+- [Generate app icons](https://remarkablemark.org/ico-icns-generator/)
 
 ## Install
 
 Clone the repository:
 
 ```sh
-git clone https://github.com/remarkablemark/vite-react-tailwind-template.git
-cd vite-react-tailwind-template
+git clone https://github.com/remarkablemark/ico-icns-generator.git
+cd ico-icns-generator
 ```
 
 Install the dependencies:

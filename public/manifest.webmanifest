@@ -1,7 +1,7 @@
 {
-  "name": "Vite React Tailwind Template",
-  "short_name": "Vite React Tailwind Template",
-  "description": "Vite React Tailwind Template",
+  "name": "ICO and ICNS Generator",
+  "short_name": "ICO and ICNS Generator",
+  "description": "🔰 Create Windows .ico and macOS .icns files in your browser",
   "start_url": "./",
   "display": "standalone",
   "background_color": "#ffffff",
