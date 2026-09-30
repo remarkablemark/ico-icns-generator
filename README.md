@@ -8,6 +8,14 @@
 
 - [Generate app icons](https://remarkablemark.org/ico-icns-generator/)
 
+## Features
+
+- Drag and drop or browse for a PNG, JPEG, WebP, GIF, AVIF, BMP, or SVG image
+- Non-square images are padded onto a transparent square canvas
+- Pick the sizes to include: 16-256px for `.ico`, 16-1024px for `.icns`
+- Preview every generated size on a checkerboard background
+- Fully client-side — images never leave your browser
+
 ## Install
 
 Clone the repository:
