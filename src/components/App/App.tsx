@@ -34,7 +34,7 @@ export function App() {
     <main className="mx-auto w-full max-w-6xl px-4 py-10 sm:px-6 lg:px-8">
       <header className="text-center">
         <h1 className="text-4xl font-bold tracking-tight text-slate-900 sm:text-5xl dark:text-slate-50">
-          Image to ICO &amp; ICNS Generator
+          Image to ICO & ICNS
         </h1>
         <p className="mx-auto mt-4 max-w-2xl text-slate-600 dark:text-slate-400">
           Drop in a PNG, JPEG, WebP or SVG and download a Windows{' '}
